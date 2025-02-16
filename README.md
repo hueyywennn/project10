@@ -1,5 +1,5 @@
 # Supply Chain Analysis
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau Logo](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) Tableau
 
 ## Project Overview
 develop an interactive dashboard to provide key insights into demand forecasting, inventory levels, lead times, and supplier performance.
